@@ -8,9 +8,6 @@ Neste repositório podes encontrar algumas ajudas :
 - Datasheets de vários componentes
 - Documentação dos workshops
 - Guião da Competição
-
-Lê tudo com atenção, e qualquer dúvida fala com alguém do STAFF . O código presente neste repositório serve apenas para orientação e tem as suas limitações.
-
-Boa sorte ! 
+- Código da equipa vencedora
 
 ![image](https://github.com/NEEECFEUP/NEEEIL-IT-24/assets/56399975/61d8c48a-290d-4ce7-a2c6-6ca2ea7a83f0)
