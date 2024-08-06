@@ -16,3 +16,7 @@ In this repository, you will find valuable resources related to the competition:
 ![image](https://github.com/NEEECFEUP/NEEEIL-IT-24/assets/56399975/61d8c48a-290d-4ce7-a2c6-6ca2ea7a83f0)
 
 Feel free to explore the resources and code provided to aid in your understanding and preparation.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
